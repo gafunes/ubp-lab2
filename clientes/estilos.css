@@ -1,0 +1,144 @@
+body
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-align:left;
+	color:#000000;
+	background-color:#FFFFFF;
+	margin:0px;
+	padding:0px;
+}
+
+.main_table
+{
+	border:1px solid #000000;
+	border-collapse:collapse;
+}
+
+.titulo_menu
+{
+	background-color:#000056;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:2px;
+}
+
+.item_menu
+{
+	color:#000000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	padding:2px;
+}
+
+a
+{
+	color:#990000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color:#000000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;	
+}
+.celda_logo
+{
+	border-bottom:2px solid #000057;
+	text-align:left;
+}
+
+.power
+{
+	padding:2px;
+	text-align:center;
+	color:#990000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-decoration:none;
+}
+
+.txt
+{
+	border:1px solid #000056;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+.celda_frm
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:right;
+	padding:2px;
+	font-weight:bold;
+}
+
+.celda_txt
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	padding:2px;
+}
+
+.celda_listado
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	padding:2px;
+	border:1px solid  #CCCCCC;
+}
+
+.pag
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:center;
+	padding:2px;
+	padding-top:5px;
+	border-top:1px solid #000057;
+}
+
+.obli
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	padding:2px;
+	color:#FF0000;
+	font-weight:bold;
+}
+
+.div_foto
+{
+	float:left;
+	margin-right:8px;
+}
+
+.img
+{
+	border:1px solid #000057;
+	margin:2px;
+	padding:2px;
+}
+
+.abierto
+{
+	display:block;
+}
+
+.cerrado
+{
+	display:none;
+}
